@@ -1,6 +1,6 @@
- 
-# vuestate project 
->  ehealth4everyone todo assignment
+ # vuestate project 
+>  Created in vue and vuestate 
+>  28-01-2019
 
 ### project dependencies
 
