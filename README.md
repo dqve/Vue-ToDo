@@ -36,3 +36,6 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Example file
+<img src="src/assets/example.png" alt="" /><br/><br/>
